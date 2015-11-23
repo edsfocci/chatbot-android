@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/uHome/Software-Dev/AndroidStudioProjects/CleverChat/CleverChat.iml" filepath="$USER_HOME$/uHome/Software-Dev/AndroidStudioProjects/CleverChat/CleverChat.iml" />
+      <module fileurl="file://$USER_HOME$/uHome/Software-Dev/AndroidStudioProjects/CleverChat/app/app.iml" filepath="$USER_HOME$/uHome/Software-Dev/AndroidStudioProjects/CleverChat/app/app.iml" />
+      <module fileurl="file://$USER_HOME$/uHome/Software-Dev/AndroidStudioProjects/CleverChat/volley/volley.iml" filepath="$USER_HOME$/uHome/Software-Dev/AndroidStudioProjects/CleverChat/volley/volley.iml" />
+    </modules>
+  </component>
+</project>
